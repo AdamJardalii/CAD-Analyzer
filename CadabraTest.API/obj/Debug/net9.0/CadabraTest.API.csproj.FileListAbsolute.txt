@@ -1,0 +1,203 @@
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/appsettings.Development.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/appsettings.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/CadabraTest.API.staticwebassets.endpoints.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/CadabraTest.API
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/CadabraTest.API.deps.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/CadabraTest.API.runtimeconfig.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/CadabraTest.API.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/CadabraTest.API.pdb
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.csproj.AssemblyReference.cache
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.AssemblyInfoInputs.cache
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.AssemblyInfo.cs
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.csproj.CoreCompileInputs.cache
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.MvcApplicationPartsAssemblyInfo.cache
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/scopedcss/bundle/CadabraTest.API.styles.css
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/staticwebassets.build.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/staticwebassets.development.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraT.1B127049.Up2Date
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/refint/CadabraTest.API.dll
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.pdb
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/CadabraTest.API.genruntimeconfig.cache
+/Users/alialani/Desktop/CADABRA/test/CadabraTest/CadabraTest.API/obj/Debug/net9.0/ref/CadabraTest.API.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.sourcelink.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\appsettings.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.staticwebassets.endpoints.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.exe
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.deps.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.runtimeconfig.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.pdb
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Npgsql.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\scopedcss\bundle\CadabraTest.API.styles.css
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraT.1B127049.Up2Date
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\refint\CadabraTest.API.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.pdb
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\CadabraTest.API.genruntimeconfig.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\ref\CadabraTest.API.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\CadabraTest.API.staticwebassets.runtime.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\a3toil3g49-{0}-fvfnbm1xvg-fvfnbm1xvg.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\OpenAI.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\System.Net.ServerSentEvents.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\oiez5v9zuz-{0}-8m1zmhaiaz-8m1zmhaiaz.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\eygvaeegfh-{0}-3r3eg4r5he-3r3eg4r5he.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\woc665pbpx-{0}-elhlyr12hv-elhlyr12hv.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\opx4loty4d-{0}-mh1ie44iv5-mh1ie44iv5.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\as0vqzsfj7-{0}-eb2s7balw2-eb2s7balw2.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\5f9f1515zv-{0}-nigrv61ph4-nigrv61ph4.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\0nwi43slu2-{0}-zw0z0behc6-zw0z0behc6.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\jb7sim0p5u-{0}-bucmnuhbcf-bucmnuhbcf.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\due3whlmmw-{0}-lmkrb6sciq-lmkrb6sciq.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\so3q48g44g-{0}-fm87e6krhn-fm87e6krhn.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\5cx3oavn73-{0}-l1604cjlqh-l1604cjlqh.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\1sjvmartzi-{0}-zr8il4ynb9-zr8il4ynb9.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\2cbfvouy2s-{0}-vryqa9wnws-vryqa9wnws.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\y6k36s2gmd-{0}-zjrrex34ub-zjrrex34ub.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\DotNetEnv.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\bin\Debug\net9.0\Sprache.dll
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\h3davpb807-{0}-iugo2l9ini-iugo2l9ini.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\q2rz46lkkd-{0}-e8ujempf2a-e8ujempf2a.gz
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net9.0\compressed\0i0f5rrgkb-{0}-uu4jk97w8m-uu4jk97w8m.gz

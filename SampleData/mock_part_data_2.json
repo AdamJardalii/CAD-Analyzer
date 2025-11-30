@@ -1,0 +1,81 @@
+{
+  "partName": "Gear_Sprocket_12T",
+  "fileName": "Gear_Sprocket_12T.sldprt",
+  "fileSize": 1892345,
+  "version": "2024.2",
+  "createdDate": "2024-02-10T09:15:00Z",
+  "modifiedDate": "2024-02-15T16:30:00Z",
+  "dimensions": {
+    "length": 50.0,
+    "width": 50.0,
+    "height": 15.0,
+    "units": "mm"
+  },
+  "material": {
+    "name": "1045 Steel",
+    "database": "SolidWorks Materials",
+    "density": 7850,
+    "densityUnit": "kg/m³"
+  },
+  "massProperties": {
+    "mass": 0.231,
+    "volume": 29.4e-6,
+    "surfaceArea": 0.018,
+    "centerOfMass": {
+      "x": 25.0,
+      "y": 25.0,
+      "z": 7.5
+    },
+    "momentOfInertia": {
+      "Ixx": 0.0008,
+      "Iyy": 0.0008,
+      "Izz": 0.0015
+    }
+  },
+  "features": [
+    {
+      "name": "Base-Revolve",
+      "type": "Revolve",
+      "angle": 360.0
+    },
+    {
+      "name": "Tooth-Pattern",
+      "type": "CircularPattern",
+      "count": 12,
+      "angle": 30.0
+    },
+    {
+      "name": "Bore-Hole",
+      "type": "HoleWizard",
+      "diameter": 8.0,
+      "depth": 15.0
+    }
+  ],
+  "configurations": ["Default", "8T_Variant", "16T_Variant"],
+  "customProperties": {
+    "PartNumber": "GR-012-T",
+    "Revision": "A",
+    "MaterialGrade": "1045",
+    "Manufacturer": "Internal",
+    "CostEstimate": 8.75,
+    "LeadTime": "1 week",
+    "Teeth": "12",
+    "Pitch": "2.5",
+    "Module": "2.0",
+    "Notes": "Standard sprocket for chain drive system"
+  },
+  "tolerances": [
+    {
+      "dimension": "Bore Diameter",
+      "value": 8.0,
+      "tolerance": "H7",
+      "standard": "ISO 286"
+    },
+    {
+      "dimension": "Tooth Profile",
+      "value": "Profile",
+      "tolerance": "±0.05",
+      "standard": "ISO 606"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Part Analysis Dashboard</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="dashboard-view" id="dashboardView">
+            <div class="header">
+        <div class="header-top">
+            <h1><i class="fas fa-cube"></i> Part Analysis Dashboard</h1>
+            <button class="logout-btn" onclick="handleLogout()">
+                <i class="fas fa-sign-out-alt"></i> Logout
+            </button>
+        </div>
+    <div class="header-stats">
+        <div class="stat-badge">
+            <i class="fas fa-chart-line"></i> Total Analyses: <span id="totalCount">0</span>
+        </div>
+    </div>
+</div>
+<div class="upload-section">
+    <div class="analysis-type-section">
+        <div class="analysis-type-title">
+            <i class="fas fa-flask"></i>
+            Select Analysis Type
+        </div>
+        <div class="analysis-options">
+            <label class="analysis-option standard selected" for="standardAnalysis">
+                <input type="radio" id="standardAnalysis" name="analysisType" value="standard" checked onchange="selectAnalysisType('standard')">
+                <div class="option-header">
+                    <div class="option-icon">
+                        <i class="fas fa-chart-bar"></i>
+                    </div>
+                    <div class="check-circle">
+                        <i class="fas fa-check"></i>
+                    </div>
+                </div>
+                <div class="option-content">
+                    <h4>Standard Analysis</h4>
+                    <p>Quick rule-based analysis with basic metrics and dimensions validation</p>
+                    <span class="option-badge">Fast • Reliable</span>
+                </div>
+            </label>
+
+            <label class="analysis-option ai" for="aiAnalysis">
+                <input type="radio" id="aiAnalysis" name="analysisType" value="ai" onchange="selectAnalysisType('ai')">
+                <div class="option-header">
+                    <div class="option-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <div class="check-circle">
+                        <i class="fas fa-check"></i>
+                    </div>
+                </div>
+                <div class="option-content">
+                    <h4>Advance Analysis Rule</h4>
+                    <p>Advance Analysis Rule with more optimization and suggestions</p>
+                    <span class="option-badge">Smart • Detailed</span>
+                </div>
+            </label>
+        </div>
+    </div>
+    <div class="upload-area" id="uploadArea">
+        <div class="upload-icon">
+            <i class="fas fa-cloud-upload-alt"></i>
+        </div>
+        <div class="upload-text">
+            <h3>Upload CAD Analysis File</h3>
+            <p>Drag and drop your JSON file here, or click to browse</p>
+        </div>
+        <button class="upload-btn" onclick="document.getElementById('fileInput').click()">
+            <i class="fas fa-folder-open"></i> Choose File
+        </button>
+        <input type="file" id="fileInput" class="file-input" accept=".json" onchange="handleFileSelect(event)">
+    </div>
+</div>
+
+            <div class="cards-grid" id="cardsContainer">
+            </div>
+        </div>
+
+        <div class="detail-view" id="detailView">
+        </div>
+        <div id="toastContainer"></div>
+    </div>
+
+    <script src="scripts/main.js"></script>
+    <script src="scripts/index.js" Part Analysis Dashboard
+></script>
+</body>
+</html>

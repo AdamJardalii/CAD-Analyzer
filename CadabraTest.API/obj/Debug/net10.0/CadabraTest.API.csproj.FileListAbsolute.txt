@@ -1,0 +1,9 @@
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.AssemblyInfo.cs
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Downloads\CadabraTest 3\CadabraTest 3\CadabraTest.API\obj\Debug\net10.0\CadabraTest.API.sourcelink.json
