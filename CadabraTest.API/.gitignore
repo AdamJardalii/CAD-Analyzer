@@ -1,0 +1,27 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code / Rider
+.vscode/
+.idea/
+
+# Environment files (keep secrets out of Git)
+.env
+.env.*.local
+
+# Secret configs
+appsettings.Development.json
+appsettings.Secrets.json

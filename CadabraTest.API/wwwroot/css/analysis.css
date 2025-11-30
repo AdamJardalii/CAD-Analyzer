@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: "Segoe UI", sans-serif;
+    background: #f8f9fa;
+}
+
+.navbar {
+    background: #111827;
+    padding: 15px 25px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.analysis-card {
+    background: white;
+    padding: 35px;
+    border-radius: 16px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
+
+.analysis-card h1 {
+    margin-bottom: 15px;
+}
+
+.details p {
+    font-size: 18px;
+    margin: 10px 0;
+}

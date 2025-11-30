@@ -1,0 +1,71 @@
+{
+  "partName": "Bracket_Assembly_Main",
+  "fileName": "Bracket_Assembly_Main.sldprt",
+  "fileSize": 2458368,
+  "version": "2024.1",
+  "createdDate": "2024-01-15T10:30:00Z",
+  "modifiedDate": "2024-01-20T14:45:00Z",
+  "dimensions": {
+    "length": 125.5,
+    "width": 75.2,
+    "height": 45.0,
+    "units": "mm"
+  },
+  "material": {
+    "name": "6061-T6 Aluminum",
+    "database": "SolidWorks Materials",
+    "density": 2700,
+    "densityUnit": "kg/m³"
+  },
+  "massProperties": {
+    "mass": 0.285,
+    "volume": 105.6e-6,
+    "surfaceArea": 0.045,
+    "centerOfMass": {
+      "x": 62.75,
+      "y": 37.6,
+      "z": 22.5
+    },
+    "momentOfInertia": {
+      "Ixx": 0.0012,
+      "Iyy": 0.0023,
+      "Izz": 0.0018
+    }
+  },
+  "features": [
+    {
+      "name": "Base-Extrude",
+      "type": "Extrude",
+      "depth": 10.0
+    },
+    {
+      "name": "Hole-Pattern",
+      "type": "HoleWizard",
+      "count": 6,
+      "diameter": 6.0
+    },
+    {
+      "name": "Fillet-Chamfer",
+      "type": "Fillet",
+      "radius": 5.0
+    }
+  ],
+  "configurations": ["Default", "Variant_A", "Variant_B"],
+  "customProperties": {
+    "PartNumber": "BRK-001-MAIN",
+    "Revision": "B",
+    "MaterialGrade": "6061-T6",
+    "Manufacturer": "Internal",
+    "CostEstimate": 12.5,
+    "LeadTime": "2 weeks",
+    "Notes": "Standard bracket for assembly mounting"
+  },
+  "tolerances": [
+    {
+      "dimension": "Hole Diameter",
+      "value": 6.0,
+      "tolerance": "±0.05",
+      "standard": "ISO 286"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Analysis Details</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f6fa;
+            padding: 20px;
+            margin: 0;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+        }
+
+        h1 {
+            margin-top: 0;
+        }
+
+        .section {
+            margin-top: 25px;
+            padding: 20px;
+            background: #f9fbff;
+            border-left: 4px solid #3b82f6;
+            border-radius: 8px;
+        }
+
+        .section h2 {
+            margin-top: 0;
+            color: #2563eb;
+        }
+
+        .meta-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+        }
+
+        .item {
+            background: #eef3ff;
+            padding: 10px;
+            border-radius: 6px;
+        }
+
+        .label {
+            font-weight: bold;
+            color: #333;
+        }
+
+        ul {
+            margin: 0;
+            padding-left: 18px;
+        }
+
+        .back-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 18px;
+            background: #2563eb;
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+        }
+
+        .back-btn:hover {
+            background: #1e4ed8;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Analysis Details</h1>
+
+        <div class="section">
+            <h2>General Info</h2>
+            <p><span class="label">Status:</span> <span id="status"></span></p>
+            <p><span class="label">Created At:</span> <span id="createdAt"></span></p>
+            <p><span class="label">Completed At:</span> <span id="completedAt"></span></p>
+        </div>
+
+        <div class="section">
+            <h2>Part Metadata</h2>
+            <div class="meta-grid">
+                <div class="item"><span class="label">File Name:</span> <span id="fileName"></span></div>
+                <div class="item"><span class="label">Part Name:</span> <span id="partName"></span></div>
+                <div class="item"><span class="label">Material:</span> <span id="material"></span></div>
+                <div class="item"><span class="label">Mass:</span> <span id="mass"></span></div>
+                <div class="item"><span class="label">Volume:</span> <span id="volume"></span></div>
+            </div>
+
+            <h3 style="margin-top:20px;">Dimensions</h3>
+            <div class="meta-grid">
+                <div class="item"><span class="label">Length:</span> <span id="length"></span></div>
+                <div class="item"><span class="label">Width:</span> <span id="width"></span></div>
+                <div class="item"><span class="label">Height:</span> <span id="height"></span></div>
+                <div class="item"><span class="label">Units:</span> <span id="units"></span></div>
+            </div>
+
+            <h3 style="margin-top:20px;">Custom Properties</h3>
+            <ul id="customProps"></ul>
+        </div>
+
+        <div class="section">
+            <h2>AI Analysis</h2>
+            <p><span class="label">Summary:</span></p>
+            <p id="summary"></p>
+
+            <h3>Insights</h3>
+            <ul id="insights"></ul>
+
+            <h3>Recommendations</h3>
+            <ul id="recommendations"></ul>
+        </div>
+
+        <a href="index.html" class="back-btn">← Back</a>
+    </div>
+
+<script>
+const urlParams = new URLSearchParams(window.location.search);
+const analysisId = urlParams.get("analysisId");
+const API_URL = "http://localhost:5000/api";
+
+if (!analysisId) alert("Missing analysisId");
+
+function getToken() {
+    return localStorage.getItem("jwtToken");
+}
+
+async function loadAnalysis() {
+    try {
+        const response = await fetch(`${API_URL}/cad/analysis/${analysisId}`, {
+            method: "GET",
+            headers: { "Authorization": `Bearer ${getToken()}` }
+        });
+
+        if (!response.ok) {
+            alert("Analysis not found");
+            return;
+        }
+
+        const data = await response.json();
+        console.log(data);
+
+        // General
+        document.getElementById("status").innerText = data.status;
+        document.getElementById("createdAt").innerText = new Date(data.createdAt).toLocaleString();
+        document.getElementById("completedAt").innerText = new Date(data.completedAt).toLocaleString();
+
+        // Metadata
+        const meta = data.partMetadata;
+        document.getElementById("fileName").innerText = meta.fileName;
+        document.getElementById("partName").innerText = meta.partName;
+        document.getElementById("material").innerText = meta.material;
+        document.getElementById("mass").innerText = meta.mass;
+        document.getElementById("volume").innerText = meta.volume;
+
+        // Dimensions
+        document.getElementById("length").innerText = meta.dimensions.length;
+        document.getElementById("width").innerText = meta.dimensions.width;
+        document.getElementById("height").innerText = meta.dimensions.height;
+        document.getElementById("units").innerText = meta.dimensions.units;
+
+        // Custom Properties
+        const props = meta.customProperties;
+        const propsList = document.getElementById("customProps");
+        propsList.innerHTML = "";
+        for (const key in props) {
+            const li = document.createElement("li");
+            li.innerText = `${key}: ${props[key]}`;
+            propsList.appendChild(li);
+        }
+
+        // AI Analysis
+        document.getElementById("summary").innerText = data.aiAnalysis.summary;
+
+        const insightsList = document.getElementById("insights");
+        data.aiAnalysis.insights.forEach(i => {
+            const li = document.createElement("li");
+            li.innerText = i;
+            insightsList.appendChild(li);
+        });
+
+        const recList = document.getElementById("recommendations");
+        data.aiAnalysis.recommendations.forEach(r => {
+            const li = document.createElement("li");
+            li.innerText = r;
+            recList.appendChild(li);
+        });
+
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+loadAnalysis();
+</script>
+
+</body>
+</html>
