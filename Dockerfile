@@ -1,19 +1,23 @@
-# Use official .NET SDK image to build
+# Build stage
 FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
-WORKDIR /app
+WORKDIR /src
 
-# Copy csproj and restore dependencies
-COPY *.sln .
-COPY CadabraTest.API/*.csproj ./CadabraTest.API/
+# Copy solution and project files
+COPY CadabraTest.sln .
+COPY CadabraTest.API/CadabraTest.API.csproj ./CadabraTest.API/
+
+# Restore dependencies
 RUN dotnet restore
 
-# Copy everything else and build
-COPY CadabraTest.API/. ./CadabraTest.API/
-RUN dotnet publish -c Release -o out
+# Copy all files
+COPY . .
 
-# Runtime image
+# Build and publish
+RUN dotnet publish CadabraTest.API/CadabraTest.API.csproj -c Release -o /app/out
+
+# Runtime stage
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
 WORKDIR /app
-COPY --from=build /app/CadabraTest.API/out .
+COPY --from=build /app/out .
 EXPOSE 5000
 ENTRYPOINT ["dotnet", "CadabraTest.API.dll"]
