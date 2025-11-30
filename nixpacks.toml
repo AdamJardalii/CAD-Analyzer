@@ -1,0 +1,11 @@
+[phases.setup]
+nixPkgs = ["...", "dotnet-sdk_9"]
+
+[phases.install]
+cmds = ["cd CadabraTest.API && dotnet restore"]
+
+[phases.build]
+cmds = ["cd CadabraTest.API && dotnet publish -c Release -o out"]
+
+[start]
+cmd = "cd CadabraTest.API/out && dotnet CadabraTest.API.dll --urls http://0.0.0.0:$PORT"
