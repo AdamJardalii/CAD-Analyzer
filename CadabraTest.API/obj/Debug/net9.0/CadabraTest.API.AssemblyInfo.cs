@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadabraTest.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+055b46c8ed45e7e0ac3dc9be17f13fd1ac6000a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70df7c1ee8d5b8ded4335c19cf797da1d9ddcdb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadabraTest.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadabraTest.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
