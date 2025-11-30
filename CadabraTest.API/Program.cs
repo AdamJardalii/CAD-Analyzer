@@ -145,7 +145,11 @@ app.Use(async (context, next) =>
         context.Response.Redirect("/index.html", permanent: false);
     }
 });
-
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.Migrate();
+}
 app.MapControllers();
 app.Run();
 
