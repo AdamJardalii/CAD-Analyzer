@@ -1,7 +1,7 @@
 // ?analysisId=xxxxx
 const urlParams = new URLSearchParams(window.location.search);
 const analysisId = urlParams.get("analysisId");
-const API_URL = "http://localhost:5000/api"; // change to your API
+const API_URL = "https://cad-analyzer-production-b9f3.up.railway.app/api";
 
 if (!analysisId) {
     alert("Missing analysisId");

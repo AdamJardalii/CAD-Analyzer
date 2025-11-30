@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://cad-analyzer-production-b9f3.up.railway.app/api";
 
 const Storage = {
     saveToken(token) {
