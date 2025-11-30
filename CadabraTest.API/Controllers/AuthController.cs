@@ -60,7 +60,10 @@ public class AuthController : ControllerBase
             {
                 status = 500,
                 error = "Server error",
-                message = ex.Message
+                        message = ex.Message,                  // main exception message
+        exceptionType = ex.GetType().Name,     // type of exception
+        innerException = ex.InnerException?.Message, // optional inner exception
+        stackTrace = ex.StackTrace 
             });
         }
     }

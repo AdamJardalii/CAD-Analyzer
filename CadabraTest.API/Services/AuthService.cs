@@ -2,7 +2,6 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
-using BCrypt.Net;
 using CadabraTest.API.Models;
 using CadabraTest.API.Data;
 using Microsoft.EntityFrameworkCore;
@@ -40,7 +39,7 @@ public class AuthService
         return GenerateJwt(user);
     }
 
-    private string GenerateJwt(ApplicationUser user)
+   private string GenerateJwt(ApplicationUser user)
     {
         var claims = new[]
         {
@@ -48,12 +47,12 @@ public class AuthService
             new Claim(JwtRegisteredClaimNames.Email, user.Email)
         };
 
-        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["JWT_KEY"]));
         var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
         var token = new JwtSecurityToken(
-            issuer: _config["Jwt:Issuer"],
-            audience: _config["Jwt:Audience"],
+            issuer: _config["JWT_ISSUER"],
+            audience: _config["JWT_AUDIENCE"],
             claims: claims,
             expires: DateTime.UtcNow.AddHours(2),
             signingCredentials: creds
